@@ -1,0 +1,4 @@
+openai
+langchain
+psycopg2
+pinecone-client
