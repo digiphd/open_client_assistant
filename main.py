@@ -94,3 +94,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    # TODO: Connect Render Database
+    # TODO: Get it working
+    # TODO: Figure out memory with langchain and wheather we need pinecone
+    # TODO: Add contribution and license urls to Readme

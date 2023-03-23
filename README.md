@@ -1,4 +1,4 @@
-# Open Client Assistant#
+# Open Client Assistant
 **Note: This project is a work in progress**
 Open Client Assistant is a powerful command line chatbot designed to manage and optimize client-specific context using OpenAi GPT-4, PostgreSQL and LangChain. The chatbot allows build up a memory on clients and client projects so can get hyperelevant information when working on articles, marketing, reports, code etc. Consider it your client based personal assistant.
 
