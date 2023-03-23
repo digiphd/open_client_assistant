@@ -12,7 +12,7 @@ It was borne from my own need to quickly recall details of client work and speed
 - PostgreSQL database for storing clients and their contexts, I use Render
 - Pinecone integration for vectorized context storage and retrieval
 - LangChain for memory optimization and context compression
-- Scalable architecture to handle millions of users
+- Handles many clients, load in the memory of each client at runtime. Conside each client a separate chat thread
 
 ## Getting Started
 
